@@ -1,6 +1,7 @@
-# PythonSpace
-Hello, world!
-This my python code test.
-I'm trying to learn Python.
-If you have some good ideas or advise.
-Please leave me a message, I'm waiting for it. 
+# Python的新手旅行
+Python语言的学习之路
+
+我希望我能一直坚持下去，为了成为一个程序员的奇葩梦想。
+
+# 4月26日-----我开始了Python的学习
+
